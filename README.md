@@ -11,4 +11,4 @@ measurement and analysis.In project AD9226 ADC module, Spartan-6 XC6SLX16 FPGA b
 Raspberry Pi 3A+, LCD screen, and its interface module were
 used. The Spartan-6 FPGA was implemented using VHDL, while
 data analysis and display interface were implemented on the
-Raspberry Pi using the Python programming language.
+Raspberry Pi using the Python programming language.You can directly access VHDL part through "Digital Oscilloscope.zip" folder.
